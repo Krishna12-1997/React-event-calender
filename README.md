@@ -1,7 +1,7 @@
 # React-event-calender
 <br />
 <div align="center">
-  <a src="https://0jxuy.csb.app" alt="Event" width="200"></a>
+  <a src="https://codesandbox.io/api/v1/sandboxes/0jxuy/screenshot.png" alt="Event" width="200"></a>
 
   <h1 align="center">Event Scheduling App build in React-calender</h1>
 </div>
